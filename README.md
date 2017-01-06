@@ -1,6 +1,7 @@
-# New Site Template
+# For what
 
-[TODO. There will be project description]
+The main reason of relinking styles is attempt to understand how it works.
+The next tasks will seem simpler after this exercise
 
 # Project Goals
 
