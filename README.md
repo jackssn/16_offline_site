@@ -1,7 +1,7 @@
 # For what
 
 All the styles and scripts located at local directory and this creates an opportunity to develop a site without
-internet-connection.ad
+internet-connection.
 
 # Project Goals
 
