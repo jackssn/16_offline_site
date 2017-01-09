@@ -1,7 +1,7 @@
 # For what
 
-The main reason of relinking styles is attempt to understand how it works.
-The next tasks will seem simpler after this exercise
+All the styles and scripts located at local directory and this creates an opportunity to develop a site without
+internet-connection.ad
 
 # Project Goals
 
